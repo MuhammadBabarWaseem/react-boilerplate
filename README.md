@@ -1,2 +1,1 @@
-# sm-recruiters
-Reactjs - Recruiters Platform for SmoothMoves
+A Advanced and scalable React and Tailwind boilerplate
